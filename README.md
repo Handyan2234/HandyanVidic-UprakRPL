@@ -1,4 +1,4 @@
-# VidicConnect - Ujian Praktik PAS RPL
+# VidicConnect - Ujian Praktik RPL
 
 **Nama:** Handyan Vidic  
 **Kelas:** XI PPLG 3  
